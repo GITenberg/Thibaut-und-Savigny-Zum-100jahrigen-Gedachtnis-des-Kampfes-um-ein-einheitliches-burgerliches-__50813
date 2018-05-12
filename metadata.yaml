@@ -1,11 +1,17 @@
 _repo: Thibaut-und-Savigny-Zum-100jahrigen-Gedachtnis-des-Kampfes-um-ein-einheitliches-burgerliches-__50813
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Stern, Jacques
       gutenberg_agent_id: '46096'
       url: http://www.gutenberg.org/2009/agents/46096
+covers:
+- cover_type: archival
+  image_path: 50813-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50813#Thibaut-und-Savigny-Zum-100jahrigen-Gedachtnis-des-Kampfes-um-ein-einheitliches-burgerliches-_
 gutenberg_issued: '2016-01-01'
 gutenberg_type: Text
 identifiers:
